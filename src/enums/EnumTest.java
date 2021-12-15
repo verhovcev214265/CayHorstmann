@@ -3,7 +3,11 @@ import java.util.Scanner;
 
 public class EnumTest {
     public static void main(String[] args) {
+<<<<<<< HEAD
 
+=======
+//
+>>>>>>> develop
 //        while (true){
 //            var in = new Scanner(System.in);
 //            System.out.println("Enter your size: " + "(SMALL, MEDIUM, LARGE, EXTRA_LARGE) \n" +
